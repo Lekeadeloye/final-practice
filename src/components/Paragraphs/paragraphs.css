@@ -1,0 +1,10 @@
+.grid-container {
+  display: grid;
+  gap: 0.5rem;
+  place-items: center;
+  margin: 1rem 0;
+  
+}
+.btn {
+  padding: .3rem;
+}
